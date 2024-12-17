@@ -49,7 +49,7 @@ const TimelineData = [
     ],
   },
   {
-    companyImg: "/CQU_logo.png",
+    companyImg: "/CQU_Logo.png",
     jobTitle: "Undergraduate Student",
     company: "Chongqing University",
     jobType: "Full Time",
