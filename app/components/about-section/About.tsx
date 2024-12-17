@@ -69,11 +69,10 @@ export default function About() {
               charSpace={"mr-[0.001em]"}
               className="font-bold antialiased text-xl md:text-2xl mb-2"
             >
-              Frontend Tools
+              Frontend Skills
             </AnimatedTitle>
             <AnimatedBody className="text-white/60 text-base md:text-xl leading-8">
-              JavaScript(ES6+), React, Next.js, TypeScript, Redux, Redux
-              Toolkit, React Query, HTML5, Git/GitHub, React Hook Form, Formik.
+              JavaScript(ES6+), React, Next.js, TypeScript, Vue.js, Angular, HTML5, Bootstrap.
             </AnimatedBody>
           </div>
           <div>
@@ -82,11 +81,10 @@ export default function About() {
               charSpace={"mr-[0.001em]"}
               className="font-bold antialiased text-xl md:text-2xl mb-2"
             >
-              UI Libraries
+              Backend Skills
             </AnimatedTitle>
             <AnimatedBody className="text-white/60 text-base md:text-xl leading-8">
-              CSS3/SCSS/SASS, Tailwind CSS, Styled Components, Chakra UI, Framer
-              Motion, Bootstrap, ReCharts.
+              Java, Python, Spring boot, Spring web, Django, Flask, SQL, JPA, Kafka.
             </AnimatedBody>
           </div>
           <div>
@@ -95,10 +93,11 @@ export default function About() {
               charSpace={"mr-[0.001em]"}
               className="font-bold antialiased text-xl md:text-2xl mb-2"
             >
-              Design Tools
+              Other Tools
             </AnimatedTitle>
             <AnimatedBody className="text-white/60 text-base md:text-xl leading-8">
-              Figma, FigJam, UX Research, UI Design, Prototyping.
+              Nginx, Docker, Kubernetes, Enterprise service bus, Jenkins, Maven, Gradle, Swagger,
+              PL/SQL, SQL Server, XML, JSON, PowerShell, Bash, Data Integration/ETL, Jira, Confluence.
             </AnimatedBody>
           </div>
         </div>

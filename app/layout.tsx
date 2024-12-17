@@ -10,19 +10,14 @@ import { ViewProvider } from "@/contexts/ViewContext";
 const kumbhSans = Kumbh_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Adeola Badero — Frontend Software Engineer",
+  title: "Frank Zhang— Software Developer",
   description:
-    "A Frontend Engineer passionate about crafting next-gen software. I drive growth by crafting user experiences that blend aesthetics with functionality through my design and development skills. I thrive on turning ideas into seamless digital solutions.",
+    "A Software Developer passionate about crafting next-gen software. I drive growth by crafting user experiences that blend aesthetics with functionality through my design and development skills. I thrive on turning ideas into seamless digital solutions.",
   keywords: [
-    "frontend",
     "react",
     "tech",
-    "creative developer",
-    "UI development",
-    "frontend engineer",
+    "backend engineer",
     "developer portfolio",
-    "creative development",
-    "nigeria",
     "software",
     "software developer",
     "software engineer",
