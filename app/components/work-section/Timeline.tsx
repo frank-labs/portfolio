@@ -13,15 +13,15 @@ const TimelineData = [
     jobType: "Full Time",
     duration: "Sep. 2023 - Sep. 2024",
     stuffIDid: [
-      "Project: Sketchpad with Python tkinter 2 Tools Used: Python, Tkinter, PyInstaller, Object-oriented programming, GitHub Actions.",
-      "Project: Frida intercept DNS demo 2Tools Used: Frida, JavaScript.",
+      "Project: Sketchpad with Python tkinter. Tools Used: Python, Tkinter, PyInstaller, Object-oriented programming, GitHub Actions.",
+      "Project: Frida intercept DNS demo. Tools Used: Frida, JavaScript.",
       "Project: Online Bookstore. Tools Used: Java, Spring Boot, Vue.js, Vuetify, Bootstrap, RESTful API, JPA, MyBatis, JWT for authentication, Social login.",
       "Project: Deploy WordPress on Google Cloud Kubernetes Engine. Tools Used: Kubernetes, gcloud CLI,Docker.",
       "Project: Traffic light detection using transfer learning with YOLOv8, evaluated with COCO metrics."
     ],
   },
   {
-    companyImg: "/GTJA_logo.jpg",
+    companyImg: "/GTJA_Logo.jpg",
     jobTitle: "Software Engineer",
     company: "Guotai Junan Securities",
     jobType: "Full Time",
@@ -63,7 +63,7 @@ const TimelineData = [
 export default function Timeline() {
   return (
     <div className="mt-10 md:mt-[110px]">
-      <Title> Work experience</Title>
+      <Title>Experience</Title>
 
       {/* THE THING, AFTER WHICH I WOULD DETERMINE THE HEIGHT */}
       <div className="flex mt-6 gap-4 pl-3">
